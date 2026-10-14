@@ -1,0 +1,15 @@
+.DS_Store
+.env*
+*.key
+*.pem
+*credentials*
+*cookies*
+.codex/
+.claude/
+__pycache__/
+*.pyc
+work/
+logs/
+cache/
+*.sqlite*
+*.db
